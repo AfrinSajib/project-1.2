@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+
+width: 100%;
+
+background-color: seagreen;
+
+display: flex;
+
+justify-content: space-between;
+
+padding-top: 30px;
+
+padding-bottom: 30px;
+
+padding: 9px 0px;
+}
+.logo{
+
+width: 20%;
+
+margin-left: 30px;
+}
+.menu{
+
+width: 50px;
+}
+.menu ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: end;
+
+margin-right: 30px;
+}
+.menu ul li{
+}
+.menu ul li a{
+
+text-decoration: none;
+
+margin-left: 60px;
+
+color: white;
+}
+.banner{
+    
+width: 100%;
+    
+margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+.travel_insurance{
+
+width: 90%;
+
+margin: auto;
+
+padding: 50px 0;
+}
+.travel_insurance h5{
+
+color: #89928f;
+
+font-size: 16px;
+
+text-transform: uppercase;
+}
+.travel_insurance h1{
+
+color: #356052;
+
+font-size: 35px;
+
+padding-top: 20px;
+
+padding-bottom: 20px;
+}
+.travel_insurance p{
+
+color: black;
+
+font-size: large;
+
+text-align: justify;
+}
+.travel_insurance h4{color: #89928f;font-size: 16px;padding-top: 30px;padding-bottom: 20px;text-transform: uppercase;}
+
+.feature{
+
+display: flex;
+
+width: 90%;
+
+margin: auto;
+
+justify-content: space-between;
+
+padding-bottom: 70px;
+}
+.item{
+
+width: 44%;
+}
+.item h5{
+
+color: #89928f;
+
+font-size: 16px;
+
+text-transform: uppercase;
+
+padding-bottom: 15px;
+}
+.item h1{
+
+color: #356052;
+
+font-size: 35px;
+
+padding-top: 20px;
+
+padding-bottom: 20px;
+}
+.item p{
+
+color: black;
+
+font-size: large;
+
+text-align: justify;
+}
+.item h4{
+
+}
+.item img{
+    
+width: 100%;
+}
+.newslatter{
+
+background: azure;
+
+width: 90%;
+
+text-align: center;
+
+padding: 70px;
+}
+.content{
+
+width: 25%;
+
+font-family: playfair Dispaly, serif;
+
+margin: auto;
+}
+.content h2{
+    
+}
+.content input{
+    
+border: none;
+    
+border-bottom: .5px solid #000;
+    
+width: 61%;
+    
+margin-top: 50px;
+    
+background: azure;
+    
+padding: 5px 0;
+}
+.content input::placeholder{
+    color: seagreen
+    font-family: playfair Dispaly, serif;
+}
+
+.inner{
+
+width: 90%;
+
+margin: auto;
+
+padding-top: 70px;
+}
+.new{
+
+}
+.new h2{
+
+color: #89928f;
+
+font-size: 32px;
+
+text-transform: uppercase;
+
+padding-bottom: 25px;
+}
+.new p{
+
+padding-top: 20px;
+
+text-align: justify;
+font-size: large;
+}
+.new img{
+
+width: 100%;
+}
+.loading{
+
+padding: 100px 0;
+
+color: #626262;
+
+text-align: center;
+}
+.loading button{
+    
+padding: 15px 20px;
+    
+background: azure;
+    
+text-transform: uppercase;
+}
+footer{
+
+background: green;
+
+padding-top: 15px;
+
+width: 100%;
+}
+.footer_wrapper{
+
+padding: 30px 70px;
+
+display: flex;
+
+justify-content: space-between;
+}
+.terms{width: 90%;}
+.terms ul{
+    
+list-style: none;
+    
+display: flex;
+}
+.terms ul li{}
+.terms ul li a{
+    
+text-decoration: none;
+    
+color: white;
+    
+margin-right: 40px;
+}
+.socail{
+
+}
+.socail ul{
+
+display: flex;
+}
+.socail ul li{
+    
+list-style: none;
+}
+.socail ul li a{
+    
+color: white;
+    
+text-decoration: none;
+    
+margin-left: 40px;
+}
